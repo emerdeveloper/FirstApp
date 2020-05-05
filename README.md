@@ -10,3 +10,10 @@ Applying the concepts:
 
 # Funcinality
 This App simulate two dice that you can roll and stop it
+
+## Portrait
+
+![Portrait](Documentation/portrait.png)
+
+## Landscape
+![Landscape](Documentation/landscape.png)
