@@ -8,7 +8,7 @@ Applying the concepts:
 * Motion Detection
 * AutoLayouts
 
-# Funcinality
+# Functionality
 This App simulate two dice that you can roll and stop it
 
 ## Portrait
